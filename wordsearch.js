@@ -16,8 +16,6 @@ const wordSearch = (letters, word) => {
   return false;
 };
 
-C - Swain;
-
 // wordSearch(
 //   [
 //     ['A', 'W', 'C', 'F', 'Q', 'U', 'A', 'L'],
